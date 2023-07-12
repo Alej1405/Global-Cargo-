@@ -5,9 +5,21 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="keywords" content="importacion, exportacion, comercio exterior, courier, compras en china">
+  <meta name="description:" content="Agencia de comercio exterior enfocada en la importacion y Exportacion a nivel mundial.">
+  <meta name="author" content="mashacorp-2023">
+  <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no, maximum-scale=1.0, minimum-scale=1.0">
+  <meta name="DC.Languague" schemet="rfc1766" content="spanish">
+  <meta property="og:locale" content="es_EC">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="Global Cargo Ecuador">
+  <meta property="og:description" content="Logistica integra">
+  <meta property="og:url" content="https://globalcargoec.mashacorp.com/">
+  <meta property="og:site_name" content="Global Cargo Ecuador">
+
   <title>Global Cargo Ecuador</title>
-  <meta content="" name="description">
-  <meta content="" name="keywords">
+  
 
   <!-- Favicons -->
   <link href="assets/img/favicon.png" rel="icon">
