@@ -98,7 +98,7 @@
               Somos una empresa dedicada a la prestación de servicios de comercio exterior y logística internacional, enfocados siempre en la agilidad, eficiencia y calidad de nuestros servicios.
               </p>
               <div class="text-center">
-                <a href="#" class="more-btn">Cotizar Embarque <i class="bx bx-chevron-right"></i></a>
+                <a href="#" class="more-btn">Escuela de Exportadores <i class="bx bx-chevron-right"></i></a>
               </div>
             </div>
           </div>
@@ -108,22 +108,22 @@
                 <div class="col-xl-4 d-flex align-items-stretch">
                   <div class="icon-box mt-4 mt-xl-0">
                     <i class="bx bx-receipt"></i>
-                    <h4>Corporis voluptates sit</h4>
-                    <p>Consequuntur sunt aut quasi enim aliquam quae harum pariatur laboris nisi ut aliquip</p>
+                    <h4>Exportaciones seguras</h4>
+                    <p>Un proyecto enfocado en la muestra al mundo de productos y productores Nacionales.</p>
                   </div>
                 </div>
                 <div class="col-xl-4 d-flex align-items-stretch">
                   <div class="icon-box mt-4 mt-xl-0">
                     <i class="bx bx-cube-alt"></i>
-                    <h4>Ullamco laboris ladore pan</h4>
-                    <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt</p>
+                    <h4>Importaciones FCL y LCL</h4>
+                    <p>Tarifas justas sin arriesgar la inversion, seguimiento desde el embarque hasta la entrega final.</p>
                   </div>
                 </div>
                 <div class="col-xl-4 d-flex align-items-stretch">
                   <div class="icon-box mt-4 mt-xl-0">
                     <i class="bx bx-images"></i>
-                    <h4>Labore consequatur</h4>
-                    <p>Aut suscipit aut cum nemo deleniti aut omnis. Doloribus ut maiores omnis facere</p>
+                    <h4>Importaciones Aereas</h4>
+                    <p>Trato justo y precio ajustable, tenemos convenios con las principales aerolianes del mundo.</p>
                   </div>
                 </div>
               </div>
