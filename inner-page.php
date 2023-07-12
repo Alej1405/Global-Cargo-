@@ -30,11 +30,10 @@
   <link href="assets/css/style.css" rel="stylesheet">
 
   <!-- =======================================================
-  * Template Name: Medilab
+  * Template Name: Global Cargo Ecuardor
   * Updated: Jun 23 2023 with Bootstrap v5.3.0
-  * Template URL: https://bootstrapmade.com/medilab-free-medical-bootstrap-theme/
-  * Author: BootstrapMade.com
-  * License: https://bootstrapmade.com/license/
+  * Author: Mashacorp.com
+  * License: Alejandro Revilla
   ======================================================== -->
 </head>
 
@@ -44,7 +43,7 @@
   <div id="topbar" class="d-flex align-items-center fixed-top">
     <div class="container d-flex justify-content-between">
       <div class="contact-info d-flex align-items-center">
-        <i class="bi bi-envelope"></i> <a href="mailto:contact@example.com">contact@example.com</a>
+        <i class="bi bi-envelope"></i> <a href="mailto:contact@example.com">francisco@globalcargoecuador.com</a>
         <i class="bi bi-phone"></i> +1 5589 55488 55
       </div>
       <div class="d-none d-lg-flex social-links align-items-center">
