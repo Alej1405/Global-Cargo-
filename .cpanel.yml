@@ -1,7 +1,7 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/mashacor/gcbox.mashacorp.com/
+    - export DEPLOYPATH=/home/mashacor/globalcargoec.mashacorp.com/
     - /bin/cp -R assets/ $DEPLOYPATH
     - /bin/cp -R forms/ $DEPLOYPATH
     - /bin/cp index.php $DEPLOYPATH
