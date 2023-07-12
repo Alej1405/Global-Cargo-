@@ -6,4 +6,3 @@ deployment:
     - /bin/cp -R forms/ $DEPLOYPATH
     - /bin/cp index.php $DEPLOYPATH
     - /bin/cp inner-page.php $DEPLOYPATH
-    - /bin/cp portfolio-details.php $DEPLOYPATH
