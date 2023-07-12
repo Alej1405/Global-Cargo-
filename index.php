@@ -80,7 +80,7 @@
     <div class="container">
       <h1>Global Cargo Ecuador</h1>
       <h2>El mundo del comercio en tus manos.</h2>
-      <a href="#about" class="btn-get-started scrollto">Cotizar Emcarque</a>
+      <a href="#about" class="btn-get-started scrollto">Cotizar Embarque</a>
     </div>
   </section><!-- End Hero -->
 
