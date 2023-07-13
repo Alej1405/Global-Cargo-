@@ -305,7 +305,7 @@
           <p>Deseas información sobre nuestra escuela de exportadores y ser parte proveedor de las cadenas internacionales mas importantes del mundo. Escribenos el mundo está esperadno por ti</p>
         </div>
 
-        <form action="forms/appointment.php" method="post" role="form" class="php-email-form">
+        <form action="appointment.php" method="post" role="form" class="php-email-form">
           <div class="row">
             <div class="col-md-4 form-group">
               <input type="text" name="name" class="form-control" id="name" placeholder="Dejanos tu nombre" data-rule="minlen:4" data-msg="Please enter at least 4 chars">
@@ -322,7 +322,7 @@
           </div>
 
           <div class="form-group mt-3">
-            <textarea class="form-control" name="message" rows="5" placeholder="Message (Optional)"></textarea>
+            <textarea class="form-control" name="message" rows="5" placeholder="Si deseas una cotización o mas información sobre la escuela de Exportadores, Escribenos."></textarea>
             <div class="validate"></div>
           </div>
           <div class="mb-3">
@@ -844,7 +844,7 @@
           <div class="col-lg-4 col-md-6 footer-newsletter">
             <h4>Suscribete tenemos informacion importante</h4>
             <p>Informate sobre las actualizacion de Senae, tarifas y otras noticias del mundo del Comercio Exterior.</p>
-            <form action="" method="post">
+            <form action="suscrip.php" method="post">
               <input type="email" name="email"><input type="submit" value="Suscribete">
             </form>
           </div>

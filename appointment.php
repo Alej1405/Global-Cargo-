@@ -13,7 +13,7 @@ require 'vendor/autoload.php';
 
 $eMail = $_POST['email'];
 $lead = $_POST['name'];
-$subject = $_POST['subject'];
+$Phone = $_POST['phone'];
 $mensaje = $_POST['message'];
 //debuguear($_POST);
 
@@ -40,8 +40,8 @@ try {
 
     //Content
     $mail->isHTML(true);                                  //Set email format to HTML
-    $mail->Subject = $subject;
-    $mail->Body    = $mensaje."<br/>"."Este mensaje fue enviado por: ".$lead."<br/>"."Desde el correo".$eMail."<br/>"."<br/>"."<br/>"."MashaCorp Asistente";
+    $mail->Subject = "Nueva solicitur de informacion";
+    $mail->Body    = $mensaje."<br/>"."Este mensaje fue enviado por: ".$lead."<br/>"."Desde el correo".$eMail."<br/>"."Numero de contacto: ".$Phone."<br/>"."<br/>"."<br/>"."MashaCorp Asistente";;
     //debuguear("hola...");
 
     $mail->CharSet = 'UTF-8';
