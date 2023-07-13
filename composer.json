@@ -1,0 +1,15 @@
+{
+    "name": "alejandro/assets",
+    "type": "project",
+    "license": "MashaCorp",
+    "authors": [
+        {
+            "name": "Alej1405",
+            "email": "103963976+Alej1405@users.noreply.github.com"
+        }
+    ],
+    "require": {
+        "phpmailer/phpmailer": "^6.8"
+    }
+    
+}
