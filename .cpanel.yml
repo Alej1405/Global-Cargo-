@@ -3,6 +3,10 @@ deployment:
   tasks:
     - export DEPLOYPATH=/home/mashacor/globalcargoec.mashacorp.com/
     - /bin/cp -R assets/ $DEPLOYPATH
-    - /bin/cp -R forms/ $DEPLOYPATH
     - /bin/cp index.php $DEPLOYPATH
     - /bin/cp inner-page.php $DEPLOYPATH
+    - /bin/cp appointment.php $DEPLOYPATH
+    - /bin/cp contact.php $DEPLOYPATH
+    - /bin/cp suscrip.php $DEPLOYPATH
+    - /bin/cp composer.json $DEPLOYPATH
+    - /bin/cp composer.lock $DEPLOYPATH
