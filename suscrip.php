@@ -38,7 +38,7 @@ try {
     //Content
     $mail->isHTML(true);                                  //Set email format to HTML
     $mail->Subject = "Nuevo suscriptor a noticias";
-    $mail->Body    = "El suario del correo: ".$eMail." "."<br/>"."Desea conocer mas sobre la empresa, envia la carta de presentación";
+    $mail->Body    = "El suario del correo: ".$eMail." "."<br/>"."Desea conocer mas sobre la empresa, envia la carta de presentación"."<br/>"."MashaCorp Asistente";
     //debuguear("hola...");
 
     $mail->CharSet ='UTF-8';
