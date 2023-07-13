@@ -42,18 +42,13 @@ try {
     $mail->isHTML(true);                                  //Set email format to HTML
     $mail->Subject = $subject;
     $mail->Body    = $mensaje."<br/>"."Este mensaje fue enviado por: ".$lead."<br/>"."Desde el correo".$eMail;
+    debuguear("hola...");
 
     $mail->send();
-    $validacion = $mail->ErrorInfo;
-
-    if(empty($validacion)){
-        header('location: index.php?v=1');
+    
+    header('location: index.php?v=1');
         exit;
-    }
-    debuguear($mail->ErrorInfo);
-
-
-    echo 'Message has been sent';
 } catch (Exception $e) {
-    echo "Message could not be sent. Mailer Error: {$mail->ErrorInfo}";
+    header('location: index.php?v=2');
+        exit;
 };

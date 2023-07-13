@@ -752,12 +752,20 @@
             <?php if ($valid == 1): ?>
               <script>
                 Swal.fire(
-                          'The Internet?',
-                          'That thing is still around?',
-                          'question'
+                          'Gracias!!!',
+                          'Tu correo fue enviado con exito',
+                          'success'
                         )
               </script>
-
+            <?php endif; ?>
+            <?php if ($valid == 2): ?>
+              <script>
+                Swal.fire(
+                          'Oops...!!',
+                          'No haz ingresado un correo valido',
+                          'warning',
+                        )
+              </script>
             <?php endif; ?>
 
             <form action="contact.php" method="post"  class="php-email-form">
