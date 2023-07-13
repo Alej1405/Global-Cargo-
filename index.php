@@ -281,7 +281,7 @@
             <div class="icon-box">
               <div class="icon"><i class="ri-bank-fill"></i></div>
               <h4><a href="">BODEGA NACIONAL</a></h4>
-              <p>El bodegaje y control de stock es uno de nuestros servicios complementarios, podemos ayudarte a coordinar la logistica nacional.</p>
+              <p>El bodegaje y control de stock es uno de nuestros servicios complementarios, podemos ayudarte a coordinar la logística nacional.</p>
             </div>
           </div>
 
@@ -335,7 +335,7 @@
       <div class="container">
 
         <div class="section-title">
-          <h2>Beneficios Exclucivos</h2>
+          <h2>Beneficios Exclusivos</h2>
           <p>La versatilidad que podemos brindar a nuestros clientes es una de las ventajas más grandes que podemos ofrecer. Juntos hacemos un equipo con un objetivo en común, el tener la carga en el menor costo y tiempo, sin sacrificar la calidad y seguridad de los productos.</p>
         </div>
 
@@ -433,24 +433,24 @@
       <div class="container">
 
         <div class="section-title">
-          <h2>Doctors</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+          <h2>Clientes</h2>
+          <p>Algunas marcas que han confiado en nosotros, durante varios años.</p>
         </div>
 
         <div class="row">
 
           <div class="col-lg-6">
             <div class="member d-flex align-items-start">
-              <div class="pic"><img src="assets/img/doctors/doctors-1.jpg" class="img-fluid" alt=""></div>
+              <div class="pic"><img src="assets/img/clientes/scania.png" class="img-fluid" alt=""></div>
               <div class="member-info">
-                <h4>Walter White</h4>
-                <span>Chief Medical Officer</span>
-                <p>Explicabo voluptatem mollitia et repellat qui dolorum quasi</p>
+                <h4>SCANIA ECUADOR</h4>
+                <span>IMPORTACIÓN DE TRANSPORTE PESADO Y DE PASAJEROS</span>
+                <p>Uno de los referentes mas importantes en cuanto al transporte pesado y de pasajeros a nivel mundial</p>
                 <div class="social">
-                  <a href=""><i class="ri-twitter-fill"></i></a>
-                  <a href=""><i class="ri-facebook-fill"></i></a>
-                  <a href=""><i class="ri-instagram-fill"></i></a>
-                  <a href=""> <i class="ri-linkedin-box-fill"></i> </a>
+                  <!-- <a href=""><i class="ri-twitter-fill"></i></a> -->
+                  <a href="https://www.facebook.com/ScaneqEcuadorScania/"><i class="ri-facebook-fill"></i></a>
+                  <a href="https://www.instagram.com/scaniadelecuador/"><i class="ri-instagram-fill"></i></a>
+                  <a href="https://ec.linkedin.com/company/scaneq"> <i class="ri-linkedin-box-fill"></i> </a>
                 </div>
               </div>
             </div>
@@ -458,11 +458,11 @@
 
           <div class="col-lg-6 mt-4 mt-lg-0">
             <div class="member d-flex align-items-start">
-              <div class="pic"><img src="assets/img/doctors/doctors-2.jpg" class="img-fluid" alt=""></div>
+              <div class="pic"><img src="assets/img/clientes/pedidosya.png" class="img-fluid" alt=""></div>
               <div class="member-info">
-                <h4>Sarah Jhonson</h4>
-                <span>Anesthesiologist</span>
-                <p>Aut maiores voluptates amet et quis praesentium qui senda para</p>
+                <h4>PEDIDOS YA ECUADOR</h4>
+                <span>EMPRESA DE DELIVERY</span>
+                <p>Lider en delivery a nivel de Latino america, apoyando en la logistica internacional y nacional</p>
                 <div class="social">
                   <a href=""><i class="ri-twitter-fill"></i></a>
                   <a href=""><i class="ri-facebook-fill"></i></a>
@@ -475,11 +475,11 @@
 
           <div class="col-lg-6 mt-4">
             <div class="member d-flex align-items-start">
-              <div class="pic"><img src="assets/img/doctors/doctors-3.jpg" class="img-fluid" alt=""></div>
+              <div class="pic"><img src="assets/img/clientes/dim.png" class="img-fluid" alt=""></div>
               <div class="member-info">
-                <h4>William Anderson</h4>
-                <span>Cardiology</span>
-                <p>Quisquam facilis cum velit laborum corrupti fuga rerum quia</p>
+                <h4>CORPORACION DIM</h4>
+                <span>PROTECCIÓN EFECTIVA</span>
+                <p>Tecnología de punta para la protección efectiva de los sistamas eléctricos.</p>
                 <div class="social">
                   <a href=""><i class="ri-twitter-fill"></i></a>
                   <a href=""><i class="ri-facebook-fill"></i></a>
@@ -492,11 +492,45 @@
 
           <div class="col-lg-6 mt-4">
             <div class="member d-flex align-items-start">
-              <div class="pic"><img src="assets/img/doctors/doctors-4.jpg" class="img-fluid" alt=""></div>
+              <div class="pic"><img src="assets/img/clientes/iepesa.gif" class="img-fluid" alt=""></div>
               <div class="member-info">
-                <h4>Amanda Jepson</h4>
-                <span>Neurosurgeon</span>
-                <p>Dolorum tempora officiis odit laborum officiis et et accusamus</p>
+                <h4>INDUSTRIAS IEPESA</h4>
+                <span>EMPRESA DE PLASTICOS</span>
+                <p>Enfocados en la optimización de plásticos de alta calidad, optimizando el reciclaje y la producción sostenible.</p>
+                <div class="social">
+                  <a href=""><i class="ri-twitter-fill"></i></a>
+                  <a href=""><i class="ri-facebook-fill"></i></a>
+                  <a href=""><i class="ri-instagram-fill"></i></a>
+                  <a href=""> <i class="ri-linkedin-box-fill"></i> </a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-6">
+            <div class="member d-flex align-items-start">
+              <div class="pic"><img src="assets/img/clientes/perla.svg" class="img-fluid" alt=""></div>
+              <div class="member-info">
+                <h4>PERLA ORGANIC</h4>
+                <span>EXPORTACION DE CHOCOLATE A NIVEL MUNDIAL</span>
+                <p>Referentes de la producción agricola del país, uno de los principales exportadores de CACAO al mundo.</p>
+                <div class="social">
+                  <!-- <a href=""><i class="ri-twitter-fill"></i></a> -->
+                  <a href="https://www.facebook.com/ScaneqEcuadorScania/"><i class="ri-facebook-fill"></i></a>
+                  <a href="https://www.instagram.com/scaniadelecuador/"><i class="ri-instagram-fill"></i></a>
+                  <a href="https://ec.linkedin.com/company/scaneq"> <i class="ri-linkedin-box-fill"></i> </a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-6 mt-4 mt-lg-0">
+            <div class="member d-flex align-items-start">
+              <div class="pic"><img src="assets/img/clientes/telecuador.jpeg" class="img-fluid" alt=""></div>
+              <div class="member-info">
+                <h4>TELECUADOR CIA LTDA</h4>
+                <span>REPRESENTANTES DE SONY EN ECUADOR</span>
+                <p>Representantes de SONY en el país una empresa con años de trayectoria, importante referente de insumos fotográficos.</p>
                 <div class="social">
                   <a href=""><i class="ri-twitter-fill"></i></a>
                   <a href=""><i class="ri-facebook-fill"></i></a>
@@ -577,6 +611,10 @@
     <!-- ======= Testimonials Section ======= -->
     <section id="testimonials" class="testimonials">
       <div class="container">
+        <div class="section-title">
+          <h2>Experiencias de Nuestros Clientes</h2>
+          <p>Mostrar las opiniones de nuestros clientes en importaciones y asesorías</p>
+        </div>
 
         <div class="testimonials-slider swiper" data-aos="fade-up" data-aos-delay="100">
           <div class="swiper-wrapper">
@@ -584,12 +622,12 @@
             <div class="swiper-slide">
               <div class="testimonial-wrap">
                 <div class="testimonial-item">
-                  <img src="assets/img/testimonials/testimonials-1.jpg" class="testimonial-img" alt="">
-                  <h3>Saul Goodman</h3>
-                  <h4>Ceo &amp; Founder</h4>
+                  <img src="assets/img/refencias/anzur.png" class="testimonial-img" alt="">
+                  <h3>ANZUR</h3>
+                  <h4>Importaciones</h4>
                   <p>
                     <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                    Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit rhoncus. Accusantium quam, ultricies eget id, aliquam eget nibh et. Maecen aliquam, risus at semper.
+                    Una de las grandes venyajas de trabajar con Global Cargo Ecuador, es la agiliadad para procesar los tràmites. En todas las importaciones que he realizado con ellos hasta el momento las únicas demoras que hemos enfrentado son las del transito. 
                     <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                   </p>
                 </div>
@@ -599,12 +637,12 @@
             <div class="swiper-slide">
               <div class="testimonial-wrap">
                 <div class="testimonial-item">
-                  <img src="assets/img/testimonials/testimonials-2.jpg" class="testimonial-img" alt="">
-                  <h3>Sara Wilsson</h3>
-                  <h4>Designer</h4>
+                  <img src="assets/img/refencias/sony.png" class="testimonial-img" alt="">
+                  <h3>SONY ECUADOR</h3>
+                  <h4>Dep. de importaciones</h4>
                   <p>
                     <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                    Export tempor illum tamen malis malis eram quae irure esse labore quem cillum quid cillum eram malis quorum velit fore eram velit sunt aliqua noster fugiat irure amet legam anim culpa.
+                    Manejar nuestras importaciones con Global Cargo Ecuador es una ventaja, pues preparar todo con anticipación nos ahorra tiempo al momento de iniciar la nacionalización en Ecuador.
                     <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                   </p>
                 </div>
@@ -614,12 +652,12 @@
             <div class="swiper-slide">
               <div class="testimonial-wrap">
                 <div class="testimonial-item">
-                  <img src="assets/img/testimonials/testimonials-3.jpg" class="testimonial-img" alt="">
-                  <h3>Jena Karlis</h3>
-                  <h4>Store Owner</h4>
+                  <img src="assets/img/refencias/tractoquito.jpeg" class="testimonial-img" alt="">
+                  <h3>TRACTO QUITO</h3>
+                  <h4>Repuestos y Maquinaria pesada</h4>
                   <p>
                     <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                    Enim nisi quem export duis labore cillum quae magna enim sint quorum nulla quem veniam duis minim tempor labore quem eram duis noster aute amet eram fore quis sint minim.
+                    Las tarifas que manejan son las mas convenientes del mercado pues no conprometen la carga por dar un menor precio, el precio es justo porque el transporte es especializado en lo que se requiere.
                     <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                   </p>
                 </div>
@@ -629,12 +667,12 @@
             <div class="swiper-slide">
               <div class="testimonial-wrap">
                 <div class="testimonial-item">
-                  <img src="assets/img/testimonials/testimonials-4.jpg" class="testimonial-img" alt="">
-                  <h3>Matt Brandon</h3>
-                  <h4>Freelancer</h4>
+                  <img src="assets/img/refencias/treck.jpg" class="testimonial-img" alt="">
+                  <h3>TECKMOTORS</h3>
+                  <h4>Motocicletas y Acesorios</h4>
                   <p>
                     <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                    Fugiat enim eram quae cillum dolore dolor amet nulla culpa multos export minim fugiat minim velit minim dolor enim duis veniam ipsum anim magna sunt elit fore quem dolore labore illum veniam.
+                    La mejor experiencia pues la asesoría anticipada nos permite saber que documentación vamos a necesitar previo al embarque, de esta forma sabemos que el proceso en Ecuador sno tendrá inconvenientes.
                     <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                   </p>
                 </div>
@@ -644,12 +682,12 @@
             <div class="swiper-slide">
               <div class="testimonial-wrap">
                 <div class="testimonial-item">
-                  <img src="assets/img/testimonials/testimonials-5.jpg" class="testimonial-img" alt="">
-                  <h3>John Larson</h3>
-                  <h4>Entrepreneur</h4>
+                  <img src="assets/img/refencias/scania.png" class="testimonial-img" alt="">
+                  <h3>SCANIA ECUADOR</h3>
+                  <h4>Transporte pesado y de Pasajeros</h4>
                   <p>
                     <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                    Quis quorum aliqua sint quem legam fore sunt eram irure aliqua veniam tempor noster veniam enim culpa labore duis sunt culpa nulla illum cillum fugiat legam esse veniam culpa fore nisi cillum quid.
+                    Encontramos en ustedes un gran aliado por la diferenciación que aplican en sus procesos, la importación de transporte pesado no es algo tan facíl, solo la anticipación y correcta ejecución de procesos nos ha llevado a trabajar por este tiempo.
                     <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                   </p>
                 </div>
@@ -668,13 +706,13 @@
       <div class="container">
 
         <div class="section-title">
-          <h2>Contact</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+          <h2>Contactos</h2>
+          <p>Estamos cerca de ti, contamos con oficnas en Quito y Guayaquil</p>
         </div>
       </div>
 
       <div>
-        <iframe style="border:0; width: 100%; height: 350px;" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12097.433213460943!2d-74.0062269!3d40.7101282!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xb89d1fe6bc499443!2sDowntown+Conference+Center!5e0!3m2!1smk!2sbg!4v1539943755621" frameborder="0" allowfullscreen></iframe>
+        <iframe style="border:0; width: 100%; height: 350px;" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3989.7619032973244!2d-78.45542538524667!3d-0.3046959997776909!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x91d5bd871b7edfaf%3A0x1c1e60c2f02a3597!2sSan%20Rafael%20Business%20Center!5e0!3m2!1ses!2sec!4v1689270697407!5m2!1ses!2sec" frameborder="0" allowfullscreen></iframe>
       </div>
 
       <div class="container">
@@ -684,20 +722,20 @@
             <div class="info">
               <div class="address">
                 <i class="bi bi-geo-alt"></i>
-                <h4>Location:</h4>
-                <p>A108 Adam Street, New York, NY 535022</p>
+                <h4>Dirección:</h4>
+                <p>Av. San Luis e Isla Genovesa Edif. San Rafael Bussines Center</p>
               </div>
 
               <div class="email">
                 <i class="bi bi-envelope"></i>
                 <h4>Email:</h4>
-                <p>info@example.com</p>
+                <p>francisco@globalcargoecuador.com</p>
               </div>
 
               <div class="phone">
                 <i class="bi bi-phone"></i>
-                <h4>Call:</h4>
-                <p>+1 5589 55488 55s</p>
+                <h4>Telefono:</h4>
+                <p>+593 999833246</p>
               </div>
 
             </div>
@@ -709,24 +747,24 @@
             <form action="forms/contact.php" method="post" role="form" class="php-email-form">
               <div class="row">
                 <div class="col-md-6 form-group">
-                  <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" required>
+                  <input type="text" name="name" class="form-control" id="name" placeholder="Nombre" required>
                 </div>
                 <div class="col-md-6 form-group mt-3 mt-md-0">
-                  <input type="email" class="form-control" name="email" id="email" placeholder="Your Email" required>
+                  <input type="email" class="form-control" name="email" id="email" placeholder="Correo" required>
                 </div>
               </div>
               <div class="form-group mt-3">
-                <input type="text" class="form-control" name="subject" id="subject" placeholder="Subject" required>
+                <input type="text" class="form-control" name="subject" id="subject" placeholder="Asunto" required>
               </div>
               <div class="form-group mt-3">
-                <textarea class="form-control" name="message" rows="5" placeholder="Message" required></textarea>
+                <textarea class="form-control" name="message" rows="5" placeholder="En que podemos ayudarte" required></textarea>
               </div>
               <div class="my-3">
                 <div class="loading">Loading</div>
                 <div class="error-message"></div>
                 <div class="sent-message">Your message has been sent. Thank you!</div>
               </div>
-              <div class="text-center"><button type="submit">Send Message</button></div>
+              <div class="text-center"><button type="submit">Enviar Mensaje</button></div>
             </form>
 
           </div>
@@ -746,28 +784,29 @@
         <div class="row">
 
           <div class="col-lg-3 col-md-6 footer-contact">
-            <h3>Medilab</h3>
+            <h3>Global Cargo Ecuador</h3>
             <p>
-              A108 Adam Street <br>
-              New York, NY 535022<br>
-              United States <br><br>
-              <strong>Phone:</strong> +1 5589 55488 55<br>
-              <strong>Email:</strong> info@example.com<br>
+              Av San Luis e Isla Genovesa <br>
+              Edf. San Rafael Business Center<br>
+              Quito, Ecuador <br><br>
+              <strong>Contacto:</strong> +593 999833246<br>
+              <strong>Email:</strong> francisco@globalcargoecuador.com<br>
             </p>
           </div>
 
           <div class="col-lg-2 col-md-6 footer-links">
-            <h4>Useful Links</h4>
+            <h4>Navegar en la pagina</h4>
             <ul>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Home</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">About us</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Services</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Terms of service</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Privacy policy</a></li>
+              <li><a class="nav-link scrollto active" href="#hero">Home</a></li>
+              <li><a class="nav-link scrollto" href="#about">Nosotros</a></li>
+              <li><a class="nav-link scrollto" href="#services">Servicios</a></li>
+              <li><a class="nav-link scrollto" href="#departments">Beneficios</a></li>
+              <li><a class="nav-link scrollto" href="#doctors">Escuela de Exportadores</a></li>
+              <li><a class="nav-link scrollto" href="#contact">Contactos</a></li>
             </ul>
           </div>
 
-          <div class="col-lg-3 col-md-6 footer-links">
+          <!-- <div class="col-lg-3 col-md-6 footer-links">
             <h4>Our Services</h4>
             <ul>
               <li><i class="bx bx-chevron-right"></i> <a href="#">Web Design</a></li>
@@ -776,13 +815,13 @@
               <li><i class="bx bx-chevron-right"></i> <a href="#">Marketing</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="#">Graphic Design</a></li>
             </ul>
-          </div>
+          </div> -->
 
           <div class="col-lg-4 col-md-6 footer-newsletter">
-            <h4>Join Our Newsletter</h4>
-            <p>Tamen quem nulla quae legam multos aute sint culpa legam noster magna</p>
+            <h4>Suscribete tenemos informacion importante</h4>
+            <p>Informate sobre las actualizacion de Senae, tarifas y otras noticias del mundo del Comercio Exterior.</p>
             <form action="" method="post">
-              <input type="email" name="email"><input type="submit" value="Subscribe">
+              <input type="email" name="email"><input type="submit" value="Suscribete">
             </form>
           </div>
 
@@ -794,23 +833,19 @@
 
       <div class="me-md-auto text-center text-md-start">
         <div class="copyright">
-          &copy; Copyright <strong><span>Medilab</span></strong>. All Rights Reserved
+          &copy; Copyright <strong><span>Mashacorp</span></strong>. All Rights Reserved
         </div>
         <div class="credits">
-          <!-- All the links in the footer should remain intact. -->
-          <!-- You can delete the links only if you purchased the pro version. -->
-          <!-- Licensing information: https://bootstrapmade.com/license/ -->
-          <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/medilab-free-medical-bootstrap-theme/ -->
-          Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
+          Designed by <a href="#">Alejandro Revilla</a>
         </div>
       </div>
-      <div class="social-links text-center text-md-right pt-3 pt-md-0">
+      <!-- <div class="social-links text-center text-md-right pt-3 pt-md-0">
         <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
         <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
         <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>
         <a href="#" class="google-plus"><i class="bx bxl-skype"></i></a>
         <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
-      </div>
+      </div> -->
     </div>
   </footer><!-- End Footer -->
 
