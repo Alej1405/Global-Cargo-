@@ -1,3 +1,7 @@
+<?php
+  $valid=$_GET['v'] ?? 0;
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -40,6 +44,8 @@
 
   <!-- Template Main CSS File -->
   <link href="assets/css/style.css" rel="stylesheet">
+
+  <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
 
 </head>
 
@@ -743,8 +749,18 @@
           </div>
 
           <div class="col-lg-8 mt-5 mt-lg-0">
+            <?php if ($valid == 1): ?>
+              <script>
+                Swal.fire(
+                          'The Internet?',
+                          'That thing is still around?',
+                          'question'
+                        )
+              </script>
 
-            <form action="forms/contact.php" method="post" role="form" class="php-email-form">
+            <?php endif; ?>
+
+            <form action="contact.php" method="post"  class="php-email-form">
               <div class="row">
                 <div class="col-md-6 form-group">
                   <input type="text" name="name" class="form-control" id="name" placeholder="Nombre" required>
@@ -857,7 +873,7 @@
   <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
   <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
   <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
-  <script src="assets/vendor/php-email-form/validate.js"></script>
+  
 
   <!-- Template Main JS File -->
   <script src="assets/js/main.js"></script>
